@@ -3,8 +3,8 @@
 
 ### I. Intended Learning Outcomes:
 
-1. Too identify the codes and functions inncorporated in the Numpy library.
-2. To be able to apply and use different codes and functions in ceating a Python program using a Numpy library.
+1. To identify the codes and functions inncorporated in the Numpy library.
+3. To be able to apply and use different codes and functions in ceating a Python program using a Numpy library.
 
 ### II. Instructions:
 
